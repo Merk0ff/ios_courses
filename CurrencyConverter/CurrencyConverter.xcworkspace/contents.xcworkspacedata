@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/antonnazarov/Projects/Courses/CurrencyConverter/CurrencyConverter.xcodeproj">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pods/Pods.xcodeproj">
+      location = "group:CurrencyConverter.xcodeproj">
    </FileRef>
 </Workspace>
